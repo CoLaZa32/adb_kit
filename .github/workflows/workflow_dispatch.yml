@@ -1,4 +1,4 @@
-name: ADBKIT CI
+okname: ADBKIT CI
 on:
   workflow_dispatch:
     inputs:
